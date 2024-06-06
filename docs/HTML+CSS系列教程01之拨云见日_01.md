@@ -54,12 +54,12 @@ Chrome浏览器的下载地址：https://www.google.cn/intl/zh-CN/chrome
 
   - Html + css
 
-  - - Html 结构
+    - Html 结构
     - CSS 样式
 
 - Web后端开发工程师
 
-- - 数据的存储
+- 数据的存储
 
 ![幻灯片8](https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F06%2F%E5%B9%BB%E7%81%AF%E7%89%878-99a169.png)
 
@@ -69,13 +69,12 @@ HTML:超文本 标记 语言
 
 - 标记(标签)：<单词>
 
-- - 单标签
-
-  - - <img>
+  - 单标签
+    - `<img>`
 
   - 双标签
 
-  - - <p></p>
+    - `<p></p>`
 
 - 语言：编程语言
 
@@ -185,7 +184,7 @@ Html注释：
 - - 强调-->双标签(加粗)
   -  ```html
     <strong>哈哈</strong>
-     ```
+    ```
 
  	强调--->双标签(斜体)
 
